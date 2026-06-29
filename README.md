@@ -81,20 +81,23 @@ ParameterOutcomeWater Level Detection AccuracyHigh ✅Data Transmission LatencyM
 📸 Screenshots
 🖥️ Blynk Web Dashboard
 Admin view showing water level gauge (at 17/20) and pump toggle switch.
-<img width="1536" height="1536" alt="WhatsApp Image 2026-06-29 at 12 58 37 PM" src="https://github.com/user-attachments/assets/63023cff-81fd-4b0b-a79a-d01dc5c33135" />
+<img width="1392" height="705" alt="Screenshot 2026-06-29 185110" src="https://github.com/user-attachments/assets/ae10df55-ffdc-492a-b611-7cb0aa2083da" />
+
 
 
 Dashboard
 
 📱 Blynk Mobile App — Device List
 Mobile home screen showing the Water Level Monitoring System device.
-<img width="1388" height="711" alt="WhatsApp Image 2026-06-29 at 12 58 35 PM" src="https://github.com/user-attachments/assets/bdb4acd4-174e-4539-8236-c935474e4ca1" />
+<img width="485" height="892" alt="Screenshot 2026-06-29 184955" src="https://github.com/user-attachments/assets/251768a0-07a2-42fc-a1ca-56347932456a" />
+
 
 Mobile App 1
 
 📱 Blynk Mobile App — Live Monitor
 Real-time water level gauge (17/20) with pump ON/OFF control button.
-<img width="714" height="1599" alt="WhatsApp Image 2026-06-29 at 12 58 37 PM (1)" src="https://github.com/user-attachments/assets/3163a338-ac76-4a04-bb58-01ca34c461ef" />
+<img width="418" height="767" alt="Screenshot 2026-06-29 185012" src="https://github.com/user-attachments/assets/c372bde3-31a6-434a-afdd-5322667ac965" />
+
 
 Mobile App 2
 
@@ -102,7 +105,8 @@ Mobile App 2
 ESP8266 NodeMCU connected with ultrasonic sensor, relay module, LCD, and LEDs.
 
 Circuit Diagram
-<img width="714" height="1599" alt="WhatsApp Image 2026-06-29 at 12 58 37 PM (2)" src="https://github.com/user-attachments/assets/a262abf9-bd08-4c56-83f2-4936afd73496" />
+<img width="896" height="896" alt="Screenshot 2026-06-29 185031" src="https://github.com/user-attachments/assets/acbebd13-7b62-4825-8df0-b3b7d4e7e11b" />
+
 
 📱 Blynk Mobile App
 
