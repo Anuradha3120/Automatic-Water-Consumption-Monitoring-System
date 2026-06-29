@@ -81,13 +81,14 @@ ParameterOutcomeWater Level Detection AccuracyHigh ✅Data Transmission LatencyM
 📸 Screenshots
 🖥️ Blynk Web Dashboard
 Admin view showing water level gauge (at 17/20) and pump toggle switch.
-<img width="1536" height="1536" alt="WhatsApp Image 2026-06-29 at 12 58 37 PM" src="https://github.com/user-attachments/assets/f78384af-1960-48b8-9f09-f4a496c69433" />
+<img width="1536" height="1536" alt="WhatsApp Image 2026-06-29 at 12 58 37 PM" src="https://github.com/user-attachments/assets/63023cff-81fd-4b0b-a79a-d01dc5c33135" />
+
 
 Dashboard
 
 📱 Blynk Mobile App — Device List
 Mobile home screen showing the Water Level Monitoring System device.
-<img width="1388" height="711" alt="WhatsApp Image 2026-06-29 at 12 58 35 PM" src="https://github.com/user-attachments/assets/350b14f1-08f0-49fb-856d-3cd4c0b6b37c" />
+<img width="1388" height="711" alt="WhatsApp Image 2026-06-29 at 12 58 35 PM" src="https://github.com/user-attachments/assets/bdb4acd4-174e-4539-8236-c935474e4ca1" />
 
 Mobile App 1
 
@@ -101,7 +102,7 @@ Mobile App 2
 ESP8266 NodeMCU connected with ultrasonic sensor, relay module, LCD, and LEDs.
 
 Circuit Diagram
-<img width="714" height="1599" alt="WhatsApp Image 2026-06-29 at 12 58 37 PM (2)" src="https://github.com/user-attachments/assets/cb33af55-a9ca-45b3-a681-90ec3956b367" />
+<img width="714" height="1599" alt="WhatsApp Image 2026-06-29 at 12 58 37 PM (2)" src="https://github.com/user-attachments/assets/a262abf9-bd08-4c56-83f2-4936afd73496" />
 
 📱 Blynk Mobile App
 
